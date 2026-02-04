@@ -3,4 +3,4 @@ pdfplumber
 python-docx
 reportlab
 langdetect
-openpyxl
+openpyxl==3.1.2
